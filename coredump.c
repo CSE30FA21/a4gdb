@@ -6,8 +6,8 @@
 
 /**
  * This is a struct that contains two pieces of data. A struct is simply a
- * container
- * that groups related data together. Here we define a new data type called rec_t
+ * container that groups related data together. Here we define a new data type
+ * called rec_t.
  */
 typedef struct  rec {
   char *name;              // a name
