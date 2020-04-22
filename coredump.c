@@ -1,5 +1,8 @@
 /**
- * CSE30FA19 HW A3 GDB
+ * Assigment GDB
+ * Name: TODO
+ * PID:  TODO
+ * Class: UCSD CSE30-SP20
  */
 #include <stdio.h>
 #include <stdlib.h>
