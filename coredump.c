@@ -2,7 +2,7 @@
  * Assigment GDB
  * Name: TODO
  * PID:  TODO
- * Class: UCSD CSE30-SP20
+ * Class: UCSD CSE30-WI21
  */
 #include <stdio.h>
 #include <stdlib.h>
